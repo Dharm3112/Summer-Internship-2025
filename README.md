@@ -63,7 +63,7 @@ On screens smaller than 768px, the layout simplifies to a single column:
 
 ## 🎓 Acknowledgments
 
-  * **Learning Source**: Sahajanand Digital
+  * **Learning Source**: [Sahajanand Digital](https://github.com/sahajananddigital)
     
   * **Concept**: Based on a common frontend challenge (Testimonials Grid Section) to practice CSS Grid skills.
     
